@@ -11,7 +11,7 @@ I'm a Software Engineer. I got basic working knowledge and skill in UI/UX Design
 - 🌱 I’m currently learning JavaScript, Reactjs and OSS.
 - 😊 I’m open and available to take on open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer (Intern or Junior Role).
-- 📫 You can [view my resume](#) and contact me by emailing jidejacobs1@gmail.com.
+- 📫 You can [view my resume](#) and contact me by emailing mailtojidejacobs1@gmail.com.
 
 ---
 
