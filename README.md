@@ -6,7 +6,6 @@ I'm a Software Engineer. I got basic working knowledge and skill in UI/UX Design
 
 **Here's a quick summary about me**:
 
-- 😊 Pronouns: He/him
 - 🌱 I’m currently Software Development at ALX Africa.
 - 😊 I’m open and available to take on open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer (Intern or Junior Role).
