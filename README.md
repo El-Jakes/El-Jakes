@@ -2,13 +2,13 @@
 
 I am Babajide Leke
 
-I'm a Software Engineer. I got basic working knowledge and skill in UI/UX Design.
+I'm a Software Engineer. I have basic working knowledge and skills in UI/UX Design.
 
 **Here's a quick summary about me**:
 
 - 😊 I’m open and available to take on open-source projects, hackathons, and other opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer.
-- 📫 You can [view my resume](#) and contact me by emailing mailtojidejacobs1@gmail.com.
+- 📫 You can [view my resume](https://devcareer.io/p/eljakes) and contact me by emailing mailtojidejacobs1@gmail.com.
 
 ---
 
